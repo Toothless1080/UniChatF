@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">UniChat</string>
+
+    <string name="prompt_jid">Jabber ID</string>
+    <string name="prompt_password">Passwort</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_register">Registrieren</string>
+    <string name="action_sign_in_short">Anmeldung</string>
+    <string name="error_invalid_jid">JabberId ungültig</string>
+    <string name="error_invalid_password">Passwort zu kurz</string>
+    <string name="error_incorrect_password">Falsches Passwort</string>
+    <string name="error_field_required">Dieses Feld wird benötigt</string>
+    <string name="permission_rationale">Kontaktberechtigungen werden benötigt um Autovervollständigung nutzen zu können.</string>
+    <string name="user_example_com">user@example.com</string>
+    <string name="server_text">user@server.com</string>
+    <string name="last_message">Letzte bekannte Nachricht...</string>
+    <string name="send_message">Nachricht senden</string>
+    <string name="title_activity_contact_list">Kontakt auswählen</string>
+    <string name="add_contact_label_text">Jabber Id</string>
+    <string name="add_contact_confirm_text">OK</string>
+    <string name="add_contact_cancel_text">Abbrechen</string>
+    <string name="me">Mein Profil</string>
+    <string name="title_me_activity">Mein Profil</string>
+    <string name="ignore_bat_allow">Erlauben</string>
+    <string name="delete_contact">Kontakt löschen</string>
+    <string name="contact_details">Kontakt details</string>
+    <string name="delete_chat">Chat löschen</string>
+    <string name="delete_message">Nachricht löschen</string>
+    <string name="contact_details_chat_view">Kontakt Details</string>
+    <string name="login_register_dialog_title">Neues Einhorn anlegen</string>
+    <string name="notregistered">Registrierung konnte nicht abgeschlossen werden</string>
+    <string name="registered">Registerung abgeschlossen</string>
+    <string name="chatListTitle">Chats</string>
+    <string name="contactListTitle">Kontakte</string>
+
+    <string name="snackbar_status_text">Onlinestatus-Abonnement zulassen?</string>
+    <string name="snackbar_status_deny">Ablehnen</string>
+    <string name="snackbar_status_allow">Annehmen</string>
+    <string name="snackbar_contact_text">Kontaktanfrage zulassen?</string>
+    <string name="snackbar_contact_allow">Annehmen</string>
+    <string name="snackbar_contact_deny">Ablehnen</string>
+    <string name="logout">Logout</string>
+    <string name="groupchat">Gruppenchat beitreten</string>
+    <string name="chatname">Name der Gruppe</string>
+    <string name="creategroup">Erstellen</string>
+    <string name="groupchat_members">Mitglieder</string>
+</resources>
